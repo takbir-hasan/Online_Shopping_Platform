@@ -1,0 +1,3 @@
+# Online_Shopping_Platform
+
+A sample of online shopping app. There might have some lack of features...
